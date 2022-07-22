@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on assigned readings responses, class
+  participation, and the final assignment of the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 53a67ec1-e93b-7fcf-2235-88e33638922f
 ---
